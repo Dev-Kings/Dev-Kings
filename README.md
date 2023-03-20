@@ -8,9 +8,6 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 
 <div style="display: flex;">
     <div style="width: 50%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=james-muriithi&theme=gotham" />
-    </div>
-    <div style="width: 50%;">
         <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Kings&theme=dark)]" />
     </div>
     <div style="width: 50%;">
