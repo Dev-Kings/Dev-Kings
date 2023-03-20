@@ -10,7 +10,7 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
     <div style="width: 50%;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Kings&theme=gotham" />
     </div>
-    <div style="width: 50%;">
+    <!-- <div style="width: 50%;">
         <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Kings&theme=dark)]" />
     </div>
     <div style="width: 50%;">
@@ -18,7 +18,7 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
     </div>
     <div style="width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api?username=Dev-Kings&count_private=true&theme=gotham&custom_title=Davids%20github%20stats" />
-    </div>
+    </div> -->
     <div style="width: 50%;">
         <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
     </div>
