@@ -14,9 +14,9 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
         <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Kings&theme=dark)]" />
     </div>
     <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dev-Kings&count_private=true&theme=gotham&custom_title=David%20github%20stats" />
+        <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Kings&langs_count=8)]" />
     </div>
     <div style="width: 50%;">
-        <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Kings&langs_count=8)]" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Dev-Kings&count_private=true&theme=gotham&custom_title=Davids%20github%20stats" />
     </div>
 </div>
