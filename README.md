@@ -89,7 +89,6 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/-slack-white?logo=slack&logoColor=4A154B&style=for-the-badge" alt="slack"/></a>
 </div>
 <br>
----
 
 ### Here are some of my ***Medium*** posts:
 
