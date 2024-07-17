@@ -14,7 +14,7 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="15"> <b>About Me</b>
 
 - 🔭 I’m currently working in `Dummen Orange - Kenya` as a `Software Developer`
 
