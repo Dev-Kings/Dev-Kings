@@ -2,10 +2,10 @@
 Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David King'asia</a></h1>
 
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Kings&label=Profile%20views&color=0e75b6&style=flat" alt="Kingasia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Kings&label=Profile%20views&color=0e75b6&style=flat" alt="Kingasia" /> 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DaveKings8?style=social) | ![GitHub followers](https://img.shields.io/github/followers/Dev-Kings?style=social)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/DaveKings8?style=social)  ![GitHub followers](https://img.shields.io/github/followers/Dev-Kings?style=social)
+</p>
 </div>
 
 <h3 align="center">A passionate Programmer from Kenya</h3>
@@ -30,8 +30,6 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b>
-Skills
-</b>
 
 <div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
