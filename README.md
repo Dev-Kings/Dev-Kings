@@ -92,11 +92,11 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 
 ### Here are some of my ***Medium*** posts:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/1" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/3" alt="Recent Article 1">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/4" alt="Recent Article 2">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/0" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/1" alt="Recent Article 3">
 ---
 
 <br>
