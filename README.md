@@ -26,6 +26,8 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
+- 📝 I also write technical blog articles at times.
+
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
@@ -86,7 +88,19 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/-slack-white?logo=slack&logoColor=4A154B&style=for-the-badge" alt="slack"/></a>
 </div>
+<br>
+---
 
+### Here are some of my ***Medium*** posts:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/1" alt="Recent Article 1">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/2" alt="Recent Article 2">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kingasiadavid41/0" alt="Recent Article 0">
+---
+
+<br>
 ## My Github Stats
 
 <div align="center">
