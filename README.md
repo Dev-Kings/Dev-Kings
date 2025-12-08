@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David King'asia</a></h1>
+Hello, my name is <a href="https://dev-kings.github.io/David_Kingasia/">David King'asia</a></h1>
 
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Kings&label=Profile%20views&color=0e75b6&style=flat" alt="Kingasia" /> 
@@ -110,5 +110,5 @@ Hello, my name is <a href="https://dev-kings.github.io/David-Kingasia/">David Ki
 
 ### 📫 How to reach me:
 
-- Website: [Portfolio](https://dev-kings.github.io/David-Kingasia/)
+- Website: [Portfolio](https://dev-kings.github.io/David_Kingasia/)
 - Email: [kingasiadavid41@gmail.com](mailto:kingasiadavid41@gmail.com)
